@@ -3,3 +3,6 @@ MARUF RESOLUSI
 - BElajar istilah istilah di pemrograman
 - Belajar Github
 - Belajar Git
+- Belajar HTML
+- Belajar Bahasa inggris
+- Belajar CSS
