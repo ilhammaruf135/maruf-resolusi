@@ -1,7 +1,6 @@
 MARUF RESOLUSI
 - Belajar JS
 - BElajar istilah istilah di pemrograman
-- Belajar Github
 - Belajar Git
 - Belajar HTML
 - Belajar Bahasa inggris
